@@ -1,0 +1,146 @@
+.header-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-text{
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 15%;
+    margin-right: 5%;
+}
+
+.header-pic{
+    float: left;
+    width: 40%;
+    margin-top: 2%;
+}
+
+p{
+    font-family: lato;
+    color: gray;
+}
+
+.name{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 4px;
+    font-size: 50px;
+    color: #ec4c7a;
+}
+
+.link-btn{
+    background-image: linear-gradient(45deg, #ec5094 , #f53561 );
+    text-decoration: none;
+    padding: 15px 40px;
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.biography-text{
+    float: left;
+    width: 40%;
+    margin-top: 15%;
+}
+
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.biography-pic{
+    float: left;
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+section{
+    padding-bottom: 100px;
+}
+
+.custom-header{
+    font-family: Arial; 
+    font-size: 35px; 
+    color: black; 
+    font-weight: 100px;
+}
+
+.work-client-heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.work-all{
+    width: 80%; 
+    height: 500px; 
+    margin: 0 auto;
+}
+
+.work-single{
+    width: 30%;
+    float: left;
+}
+
+.client-all{
+    width: 60%; 
+    height: 350px; 
+    margin: 0 auto;
+    
+}
+
+.client-single{
+    float: left;
+    text-align: center;
+    border-radius: 10px;
+    width: 30%;
+    background-image: linear-gradient(45deg, #ffcf1a, #ffa033 );
+    box-shadow: 10px 10px 40px gray;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+.contact{
+    color: white;
+    background-image: linear-gradient(45deg, #ec5094 , #f53561 );
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.purple{
+    color: purple;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.copyright{
+    text-align: center;
+    padding-bottom: 50px;
+}
