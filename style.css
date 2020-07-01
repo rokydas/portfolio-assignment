@@ -53,7 +53,7 @@ p{
 .biography-area{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 800px;
 }
 
 .biography-pic{
@@ -84,19 +84,22 @@ section{
 .work{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
-    height: 500px;
+    height: 700px;
+    padding-top: 200px;
 }
 
 .footer{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
-    height: 600px;
+    padding-top: 100px;
+    height: 1000px;
 }
 
 .work-all{
     width: 80%; 
     height: 500px; 
     margin: 0 auto;
+    padding-top: 100px;
 }
 
 .work-single{
@@ -108,7 +111,7 @@ section{
     width: 60%; 
     height: 350px; 
     margin: 0 auto;
-    
+    padding: 100px 0px;
 }
 
 .client-single{
